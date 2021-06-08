@@ -10,4 +10,4 @@ Hello everyone! My name is Pablo and here are part of my work at DAW Course
 
 ## Stats
 ![RTPablocs's GitHub stats](https://github-readme-stats.vercel.app/api?username=RTPablocs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RTPablocs)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]
