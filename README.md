@@ -8,3 +8,5 @@ Hello everyone! My name is Pablo and here are part of my work at DAW Course
 ## Frameworks
 <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
 
+## Stats
+![RTPablocs's GitHub stats](https://github-readme-stats.vercel.app/api?username=RTPablocs)
