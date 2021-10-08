@@ -4,7 +4,7 @@ Hello, I'm Pablo and this is my README, so readme before start watching!
 
 ## About Me!
 
-I am 19 years old and I'm from Ontinyent, Valencia
+I'm 19 years old and I'm from Ontinyent, Valencia
 
 I love researching technology, even if I use it, because I love delving into it and knowing the little details that make the difference between another project and mine.
 
