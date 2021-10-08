@@ -8,7 +8,7 @@ I am 19 years old and I'm from Ontinyent, Valencia
 
 I love researching technology, even if I use it, because I love delving into it and knowing the little details that make the difference between another project and mine.
 
-## What programming languages I use?
+## What programming languages do I use?
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
