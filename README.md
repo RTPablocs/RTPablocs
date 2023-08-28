@@ -4,7 +4,7 @@ Hello, I'm Pablo and this is my README, so readme before start watching!
 
 ## About Me!
 
-I'm 19 years old and I'm from Ontinyent, Valencia
+I'm 21 years old and I'm from Ontinyent, Valencia
 
 I love researching technology, even if I use it, because I love delving into it and knowing the little details that make the difference between another project and mine.
 
@@ -44,17 +44,7 @@ For everyday use I have one MSI Prestige 15 A10SC with ubuntu 21.04
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
-## Are you learning something?
-
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-\*also sequelize and blockchain technology
-
-## My 2021 Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api/?username=RTPablocs&count_private=true&&showicons=true)
 
 ## Contact
 
